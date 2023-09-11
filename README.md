@@ -18,8 +18,8 @@ Total abastecido de ETANOL: 1125 litros
 
 # Informações adicionais:
 
-O preço do litro da GASOLINA é R$ 2,90
-O preço do litro do ETANOL é R$ 2,27
-Velocidade de abastecimento da bomba de gasolina: 10 litros / minuto
-Velocidade de abastecimento da bomba de álcool: 12 litros /minuto
-Privilegie baixo acoplamento e alta coesão na solução proposta, minimizando impactos no caso de alterações nas definições do problema.
+* O preço do litro da GASOLINA é R$ 2,90
+* O preço do litro do ETANOL é R$ 2,27
+* Velocidade de abastecimento da bomba de gasolina: 10 litros / minuto
+* Velocidade de abastecimento da bomba de álcool: 12 litros /minuto
+* Privilegie baixo acoplamento e alta coesão na solução proposta, minimizando impactos no caso de alterações nas definições do problema.
