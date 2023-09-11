@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"logus","l":"logus.entities"},{"m":"logus","l":"services"},{"m":"logus","l":"test"}];updateSearchResults();
